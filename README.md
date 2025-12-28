@@ -1,5 +1,5 @@
 # Zero-Dimensional Cardiovascular Modeling
-**A Personalized Approach to Non-Invasive Measurement and Stability Analysis**
+**A Personalized Approach to Non-Invasive Measurement and Sensitivity Analysis**
 
 ---
 
